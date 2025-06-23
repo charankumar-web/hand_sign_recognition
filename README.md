@@ -15,7 +15,7 @@ This project uses computer vision and deep learning to recognize static hand ges
 
 ## 📷 Demo
 
-![Demo Screenshot](demo/demo.png)  
+![Demo Screenshot](demo.png)  
 *Live prediction of hand signs from webcam feed.*
 
 ## 🛠️ Tech Stack
