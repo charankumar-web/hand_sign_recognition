@@ -76,3 +76,5 @@ MNIST (for baseline ideas)
 
 🌐 Repository Link
 https://github.com/charankumar-web/hand_sign_recognition
+# hand_sign_recognition
+It detects the numbers from 1 to 10 using hand sign
